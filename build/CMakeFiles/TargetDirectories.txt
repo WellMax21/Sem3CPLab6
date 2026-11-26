@@ -1,0 +1,9 @@
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/main.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/package.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/package_source.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/edit_cache.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/rebuild_cache.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/list_install_components.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/install.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/install/local.dir
+C:/Codes/dolgi/3 sem/kazenkov/06/build/CMakeFiles/install/strip.dir
